@@ -1,4 +1,3 @@
-print("hello, my name is manas")
-
-print("I am a student")
-print("I am from India")
+import requests
+a = requests.get('https://www.python.org')
+a.status_code
