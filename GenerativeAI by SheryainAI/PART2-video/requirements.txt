@@ -1,0 +1,141 @@
+# -----------------------------
+# Core LangChain
+# -----------------------------
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# -----------------------------
+# OpenAI
+# -----------------------------
+langchain-openai
+openai
+
+# -----------------------------
+# Mistral AI
+# -----------------------------
+langchain-mistralai
+mistralai
+
+# -----------------------------
+# Embedding Models
+# -----------------------------
+sentence-transformers
+transformers
+torch
+
+# -----------------------------
+# Vector Databases
+# -----------------------------
+faiss-cpu
+chromadb
+
+# Uncomment if using these
+# pinecone
+# weaviate-client
+# qdrant-client
+# milvus
+
+# -----------------------------
+# Document Loaders
+# -----------------------------
+pypdf
+pymupdf
+unstructured
+python-docx
+docx2txt
+beautifulsoup4
+lxml
+
+# Excel
+openpyxl
+pandas
+
+# CSV
+tabulate
+
+# -----------------------------
+# Web Loader
+# -----------------------------
+requests
+aiohttp
+
+# -----------------------------
+# HTML Parsing
+# -----------------------------
+html5lib
+
+# -----------------------------
+# Environment Variables
+# -----------------------------
+python-dotenv
+
+# -----------------------------
+# Token Counting
+# -----------------------------
+tiktoken
+
+# -----------------------------
+# Progress Bars
+# -----------------------------
+tqdm
+
+# -----------------------------
+# Validation
+# -----------------------------
+pydantic
+
+# -----------------------------
+# Utilities
+# -----------------------------
+numpy
+scipy
+
+# -----------------------------
+# API (Optional)
+# -----------------------------
+fastapi
+uvicorn
+
+# -----------------------------
+# Streamlit UI (Optional)
+# -----------------------------
+streamlit
+
+# -----------------------------
+# Logging
+# -----------------------------
+loguru
+
+# -----------------------------
+# Typing
+# -----------------------------
+typing-extensions
+
+# -----------------------------
+# Jupyter (Optional)
+# -----------------------------
+ipykernel
+notebook
+
+# -----------------------------
+# Optional OCR
+# -----------------------------
+pytesseract
+Pillow
+
+# -----------------------------
+# Image Processing
+# -----------------------------
+opencv-python
+
+# -----------------------------
+# Audio (Optional)
+# -----------------------------
+ffmpeg-python
+
+# -----------------------------
+# Retry Logic
+# -----------------------------
+tenacity
